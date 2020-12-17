@@ -1,3 +1,3 @@
-# MC Controller
-Discord bot that controls Minecraft server hosted on local server.
-To prevent unnecessary power use, players on the server can turn on and off the server via this Discord bot. 
+# Kause
+Discord bot that controls server hosted on local server.
+To prevent unnecessary power use, users of the server can turn on and off the server via this Discord bot. 
